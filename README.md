@@ -21,14 +21,14 @@ An interactive web-based maze game built with modern HTML5 and JavaScript standa
 - JavaScript (ES6+)
 
 ## 📂 Project Structure
-
-maze/
-├── index.html # Main landing page
+```
+maze /
+├──  index.html # Main landing page
 ├── page1.html # Maze level/page 1
 ├── page2.html # Maze level/page 2
 ├── styles.css # (if applicable) Styling file
 └── script.js # (if applicable) Game logic
-
+```
 bash
 Copy
 Edit
@@ -40,7 +40,3 @@ Edit
    git clone https://github.com/mirzaatifbaig/maze.git
 Open index.html in your browser or visit the Live Demo.
 
-Crafted with ❤️ by mirzaatifbaig
-
-Copy
-Edit
